@@ -1,1 +1,1 @@
-# UCSD 251A ML: Learning Algorithms
+# UCSD 251A-ML: Learning Algorithms
